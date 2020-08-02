@@ -21,6 +21,7 @@ O(n) Time Complexity
 Constant Space Complexity
 n : Length of String 
 */
+//Here ASCII value is used, alternatively isUpperCase() & isLowerCase() would also be used!
 class Aug1stDetectCapital 
 {
     public boolean detectCapitalUse(String word) 
